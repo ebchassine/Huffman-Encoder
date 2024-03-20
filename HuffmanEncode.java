@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-//Worked with Sam Starrs
+
 public class HuffmanEncode implements Huffman {
 
     //Adds each character to the dictionary
